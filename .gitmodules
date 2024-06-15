@@ -1,0 +1,3 @@
+[submodule "To Do list"]
+	path = To Do list
+	url = https://github.com/username/submodule-repo.git
