@@ -3,4 +3,4 @@
 	url = https://github.com/username/submodule-repo.git
 [submodule "To do list"]
 	path = To do list
-	url = https://github.com/username/submodule-repo.git
+	url = https://github.com/your-username/submodule-repo.git
